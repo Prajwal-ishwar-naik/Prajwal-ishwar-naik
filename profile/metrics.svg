@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" fill="none">
+  <rect width="800" height="220" rx="12" fill="#0D1117" stroke="#00FF66" stroke-width="1.5" stroke-opacity="0.4"/>
+  <circle cx="30" cy="30" r="6" fill="#FF5F56"/>
+  <circle cx="50" cy="30" r="6" fill="#FFBD2E"/>
+  <circle cx="70" cy="30" r="6" fill="#27C93F"/>
+  <text x="50%" y="105" text-anchor="middle" fill="#00FF66" font-family="JetBrains Mono, monospace" font-size="20" font-weight="bold">⚡ Prajwal's GitHub Metrics Dashboard ⚡</text>
+  <text x="50%" y="145" text-anchor="middle" fill="#8B949E" font-family="JetBrains Mono, monospace" font-size="14">Auto-syncs via GitHub Actions • Run the 'Generate GitHub Metrics' workflow to populate live statistics</text>
+  <text x="50%" y="180" text-anchor="middle" fill="#00FF66" font-family="JetBrains Mono, monospace" font-size="12" opacity="0.8">// Status: Initialized &amp; Ready to Sync</text>
+</svg>

@@ -1,8 +1,8 @@
 <div align="left">
 
-<img align="right" src="./img.png" width="260" hspace="15" alt="Prajwal Naik">
+<img align="right" src="./img.png" width="260" hspace="15" alt="Prajwal">
 
-<h1>Hey there, I'm Prajwal Naik 👋</h1>
+<h1>Hey there, I'm Prajwal 👋</h1>
 
 <a href="https://github.com/Prajwal-ishwar-naik">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FF66&center=false&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Builder;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Generative+AI+%26+LLMs+%7C+RAG;Python+Developer+%7C+System+Builder;Keep+Building+%E2%80%A2+Keep+Growing" alt="Typing SVG">
@@ -42,7 +42,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Prajwal Naik**, a passionate Developer and Builder exploring Artificial Intelligence, Machine Learning, Deep Learning, and modern Software Engineering.
+I'm **Prajwal**, a passionate Developer and Builder exploring Artificial Intelligence, Machine Learning, Deep Learning, and modern Software Engineering.
 
 Driven by relentless curiosity: **Learn → Build → Grow → Repeat**.
 
@@ -64,6 +64,19 @@ Driven by relentless curiosity: **Learn → Build → Grow → Repeat**.
 </tr>
 </table>
 
+<br><br>
+
+<div align="center">
+
+## 📊 GitHub Metrics
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/metrics.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/metrics.svg">
+  <img src="./profile/metrics.svg" width="100%" alt="Prajwal GitHub Metrics Dashboard">
+</picture>
+
+</div>
 
 <br><br>
 
@@ -84,5 +97,5 @@ Driven by relentless curiosity: **Learn → Build → Grow → Repeat**.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Growing&fontSize=19&fontColor=ffffff&fontAlignY=65&color=0:051B11,100:00FF66" width="100%" alt="Waving footer">
 <br>
-<sub><b>© Prajwal Naik</b> · AI & Machine Learning Builder · Developer</sub>
+<sub><b>© Prajwal</b> · AI & Machine Learning Builder · Developer</sub>
 </div>
