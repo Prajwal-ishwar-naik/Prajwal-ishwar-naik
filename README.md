@@ -5,7 +5,7 @@
 <h1>Hey there, I'm Prajwal 👋</h1>
 
 <a href="https://github.com/Prajwal-ishwar-naik">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Building+End-to-End+AI+%26+ML+Pipelines;Generative+AI+%26+LLM+Systems;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Building+End-to-End+AI+%26+ML+Pipelines;Automated+Data+%26+Model+Pipelines;Generative+AI+%26+LLM+Systems;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Turning+Ideas+Into+Production+Systems" alt="Typing SVG">
 </a>
 
 <p>
@@ -54,7 +54,7 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 - 🧠 Deep Learning, Computer Vision & NLP Solutions
 - ⚡ High-Performance APIs & Microservices (FastAPI)
 - 🐳 Containerization, Docker & Cloud Deployment
-- 💻 Modern Scalable Systems & Full-Stack Apps
+- 💻 Scalable Distributed Systems & Backend Architecture
 
 > **Build things. Break things. Learn things. Ship things.**
 
@@ -87,5 +87,5 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Shipping&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
 <br>
-<sub><b>© Prajwal</b> · AI & Machine Learning Builder · Developer</sub>
+<sub><b>© Prajwal</b> · AI & Machine Learning Pipeline Engineer</sub>
 </div>
