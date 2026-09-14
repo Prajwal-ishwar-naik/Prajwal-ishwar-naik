@@ -49,34 +49,34 @@ I'm **Prajwal**, an AI & Machine Learning Engineer focused on building End-to-En
 
 I enjoy taking an idea from **concept → architecture → development → deployment → production**.
 
-- 🔄 End-to-End AI & ML Pipeline Building & Deployment
-- 🤖 Generative AI, LLMs & RAG Architectures
-- 🧠 Deep Learning, Computer Vision & NLP Solutions
-- ⚡ High-Performance APIs & Microservices (FastAPI)
-- 🐳 Containerization, Docker & Cloud Deployment
-- 💻 Scalable Distributed Systems & Backend Architecture
+- 🔄 **End-to-End ML Pipelines**: Model Optimization, Tuning & Automated Deployment
+- 🤖 **NLP & GenAI**: LLMs, RAG, LangChain, LangGraph & Transformers
+- 🧠 **Machine & Deep Learning**: PyTorch, TensorFlow, Scikit-Learn & Computer Vision
+- ⚡ **Frameworks & APIs**: FastAPI, Flask, REST APIs & Streamlit
+- 🐳 **Infra & Cloud**: Docker, Docker Compose, ChromaDB, Git/GitHub & AWS
+- 📐 **System Design**: Scalable Distributed Systems & Architecture
 
 > **Build things. Break things. Learn things. Ship things.**
 
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,anaconda,fastapi,docker,linux,cpp&perline=5&theme=dark" width="100%" alt="AI & ML Stack">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,fastapi,flask,docker,aws,github&perline=5&theme=dark" width="100%" alt="AI & ML Stack">
 
 <br><br>
 
-<a href="https://openai.com/">
-  <img src="https://img.shields.io/badge/OpenAI-161B22?style=for-the-badge&logo=openai&logoColor=00FF66" alt="OpenAI">
-</a>
-<a href="https://huggingface.co/">
-  <img src="https://img.shields.io/badge/Hugging%20Face-161B22?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face">
-</a>
-<br>
 <a href="https://www.langchain.com/">
   <img src="https://img.shields.io/badge/LangChain-161B22?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
 </a>
-<a href="https://ollama.com/">
-  <img src="https://img.shields.io/badge/Ollama-161B22?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+<a href="https://huggingface.co/">
+  <img src="https://img.shields.io/badge/Transformers-161B22?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Transformers">
+</a>
+<br>
+<a href="https://streamlit.io/">
+  <img src="https://img.shields.io/badge/Streamlit-161B22?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit">
+</a>
+<a href="https://openai.com/">
+  <img src="https://img.shields.io/badge/OpenAI-161B22?style=for-the-badge&logo=openai&logoColor=00FF66" alt="OpenAI">
 </a>
 
 </td>
