@@ -1,36 +1,33 @@
 <div align="left">
 
-<img align="right" src="./img.png" width="250" hspace="15" alt="Neraj Lal">
+<img align="right" src="./img.png" width="260" hspace="15" alt="Prajwal Naik">
 
-<h1>Hey there, I'm Neraj Lal 👋</h1>
+<h1>Hey there, I'm Prajwal Naik 👋</h1>
 
-<a href="https://github.com/nerajlal">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+Shopify+Specialist;AI+%26+LLM+Integrations;Building+SaaS+%26+Production+Web+Apps;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
+<a href="https://github.com/Prajwal-ishwar-naik">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FF66&center=false&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Builder;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Generative+AI+%26+LLMs+%7C+RAG;Python+Developer+%7C+System+Builder;Keep+Building+%E2%80%A2+Keep+Growing" alt="Typing SVG">
 </a>
 
 <p>
-  <a href="https://nerajlal.gecnoguru.com/">
-    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=EF93C4" alt="Portfolio">
+  <a href="https://github.com/Prajwal-ishwar-naik">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00FF66" alt="GitHub">
   </a>
-  <a href="https://github.com/nerajlal">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub">
+  <a href="https://www.linkedin.com/in/prajwalnaik/">
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=00FF66" alt="LinkedIn">
   </a>
-  <a href="https://www.linkedin.com/in/nerajlal/">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=EF93C4" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/techbyneraj/">
-    <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=FF69B4" alt="Instagram">
+  <a href="https://github.com/Prajwal-ishwar-naik?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-161B22?style=for-the-badge&logo=google-chrome&logoColor=00FF66" alt="Projects">
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/nerajlal?tab=followers">
-    <img src="https://img.shields.io/github/followers/nerajlal?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
+  <a href="https://github.com/Prajwal-ishwar-naik?tab=followers">
+    <img src="https://img.shields.io/github/followers/Prajwal-ishwar-naik?style=for-the-badge&label=FOLLOWERS&color=00FF66&labelColor=161B22" alt="GitHub followers">
   </a>
-  <a href="https://github.com/nerajlal?tab=repositories">
-    <img src="https://img.shields.io/github/stars/nerajlal?style=for-the-badge&label=STARS&color=F8BBD0&labelColor=161B22" alt="GitHub stars">
+  <a href="https://github.com/Prajwal-ishwar-naik?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Prajwal-ishwar-naik?style=for-the-badge&label=STARS&color=00FF66&labelColor=161B22" alt="GitHub stars">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=nerajlal&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Prajwal-ishwar-naik&style=for-the-badge&label=PROFILE%20VIEWS&color=00FF66&labelColor=161B22" alt="Profile views">
 </p>
 
 <br clear="both">
@@ -45,24 +42,23 @@
 
 ## 👨‍💻 About Me
 
-I'm **Neraj Lal**, a Full Stack Developer focused on building modern web applications, Shopify apps, SaaS products, and AI-powered solutions.
+I'm **Prajwal Naik**, a passionate Developer and Builder exploring Artificial Intelligence, Machine Learning, Deep Learning, and modern Software Engineering.
 
-I enjoy taking an idea from **concept → architecture → development → deployment → production**.
+Driven by relentless curiosity: **Learn → Build → Grow → Repeat**.
 
-- 🚀 Full Stack Web Development
-- 🛍️ Shopify App Development
-- 🤖 AI & LLM Integrations
-- 🏗️ SaaS & Multi-Tenant Applications
-- ☁️ Cloud Deployment & Server Management
-- ⚡ Laravel, PHP, JavaScript & React
-- 🐍 Exploring Python & Django
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Deep Learning, NLP & Computer Vision
+- ⚡ Generative AI, LLMs & Retrieval-Augmented Generation (RAG)
+- 🐍 Python Development & Intelligent Automation
+- 🌐 Modern Full Stack Applications & Scalable Systems
+- 🏗️ End-to-End System Design from Idea to Production
 
-> **Build things. Break things. Learn things. Ship things.**
+> **"Learn. Build. Grow. Repeat. // Keep Building."**
 
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,django,javascript,typescript,react,nextjs,nodejs,shopify,mysql,redis,docker,git,github,linux,nginx&perline=5&theme=dark" width="100%" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,javascript,typescript,react,nextjs,nodejs,postgres,mongodb,docker,git,github,linux&perline=4&theme=dark" width="100%" alt="Tech stack">
 
 </td>
 </tr>
@@ -76,9 +72,9 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prajwal-ishwar-naik/Prajwal_Naik/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prajwal-ishwar-naik/Prajwal_Naik/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Prajwal-ishwar-naik/Prajwal_Naik/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
 </picture>
 
 </div>
@@ -86,7 +82,7 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Shipping&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Growing&fontSize=19&fontColor=ffffff&fontAlignY=65&color=0:051B11,100:00FF66" width="100%" alt="Waving footer">
 <br>
-<sub><b>© Neraj Lal</b> · Full Stack Developer · Shopify · AI · SaaS</sub>
+<sub><b>© Prajwal Naik</b> · AI & Machine Learning Builder · Developer</sub>
 </div>
