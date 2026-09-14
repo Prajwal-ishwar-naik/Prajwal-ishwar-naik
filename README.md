@@ -9,13 +9,13 @@
 </a>
 
 <p>
-  <a href="https://github.com/Prajwal-ishwar-naik?tab=repositories">
+  <a href="https://portfolioo-eight-blond.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=EF93C4" alt="Portfolio">
   </a>
   <a href="https://github.com/Prajwal-ishwar-naik">
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/prajwalnaik/">
+  <a href="https://www.linkedin.com/in/prajwal-naik-616691306/">
     <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=EF93C4" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/watashiwa.prajwal/">
