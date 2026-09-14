@@ -59,9 +59,25 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 > **Build things. Break things. Learn things. Ship things.**
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,fastapi,flask,docker,kubernetes,linux,postgres,mongodb,aws,gcp,postman,ts,react,nextjs,git,github&perline=5&theme=dark" width="100%" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,anaconda,fastapi,docker,linux,cpp&perline=5&theme=dark" width="100%" alt="AI & ML Stack">
+
+<br><br>
+
+<a href="https://openai.com/">
+  <img src="https://img.shields.io/badge/OpenAI-161B22?style=for-the-badge&logo=openai&logoColor=00FF66" alt="OpenAI">
+</a>
+<a href="https://huggingface.co/">
+  <img src="https://img.shields.io/badge/Hugging%20Face-161B22?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face">
+</a>
+<br>
+<a href="https://www.langchain.com/">
+  <img src="https://img.shields.io/badge/LangChain-161B22?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+</a>
+<a href="https://ollama.com/">
+  <img src="https://img.shields.io/badge/Ollama-161B22?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+</a>
 
 </td>
 </tr>
