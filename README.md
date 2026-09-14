@@ -5,7 +5,7 @@
 <h1>Hey there, I'm Prajwal 👋</h1>
 
 <a href="https://github.com/Prajwal-ishwar-naik">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Building+SaaS+%26+Production+Web+Apps;AI+%26+LLM+Integrations;Full+Stack+%26+Systems+Developer;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Building+End-to-End+AI+%26+ML+Pipelines;Generative+AI+%26+LLM+Systems;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
 </a>
 
 <p>
@@ -45,23 +45,23 @@
 
 ## 👨‍💻 About Me
 
-I'm **Prajwal**, a Full Stack & AI Developer focused on building modern web applications, AI-powered systems, and production software.
+I'm **Prajwal**, an AI & Machine Learning Engineer focused on building End-to-End Intelligent Pipelines, Production AI Systems, and Scalable Architectures.
 
 I enjoy taking an idea from **concept → architecture → development → deployment → production**.
 
-- 🚀 Full Stack Web Development
-- 🤖 AI & LLM Integrations
-- 🧠 Deep Learning & Machine Learning
-- 🏗️ SaaS & Scalable Web Applications
-- ⚡ Python, JavaScript & React
-- ☁️ Cloud Deployment & Server Management
+- 🔄 End-to-End AI & ML Pipeline Building & Deployment
+- 🤖 Generative AI, LLMs & RAG Architectures
+- 🧠 Deep Learning, Computer Vision & NLP Solutions
+- ⚡ High-Performance APIs & Microservices (FastAPI)
+- 🐳 Containerization, Docker & Cloud Deployment
+- 💻 Modern Scalable Systems & Full-Stack Apps
 
 > **Build things. Break things. Learn things. Ship things.**
 
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,javascript,typescript,react,nextjs,nodejs,postgres,mongodb,docker,git,github,linux,nginx&perline=5&theme=dark" width="100%" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,fastapi,flask,docker,kubernetes,linux,postgres,mongodb,aws,gcp,postman,ts,react,nextjs,git,github&perline=5&theme=dark" width="100%" alt="Tech stack">
 
 </td>
 </tr>
@@ -75,9 +75,9 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prajwal-ishwar-naik/Prajwal_Naik/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prajwal-ishwar-naik/Prajwal_Naik/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Prajwal-ishwar-naik/Prajwal_Naik/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prajwal-ishwar-naik/Prajwal-ishwar-naik/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prajwal-ishwar-naik/Prajwal-ishwar-naik/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Prajwal-ishwar-naik/Prajwal-ishwar-naik/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
 </picture>
 
 </div>
@@ -87,5 +87,5 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Shipping&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
 <br>
-<sub><b>© Prajwal</b> · Developer & Builder</sub>
+<sub><b>© Prajwal</b> · AI & Machine Learning Builder · Developer</sub>
 </div>
